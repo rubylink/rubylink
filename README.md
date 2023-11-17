@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer and Data Science:</h2>
 
 - <b>Data Structures and Algorithms Projects (AlgoExpert)</b>
-  - [Praciting DS & Algos in C++](Data_Structures](https://github.com/rubylink/Portfolio/tree/c60a707b17e0715a3e1da6c9cf6345e897265d4f/Data_Structures)
+  - [Praciting DS & Algos in C++](Data_Structures](https://github.com/rubylink/Portfolio/tree/c60a707b17e0715a3e1da6c9cf6345e897265d4f/Data_Structures )<b>
 - <b> Machine Learning in Python </b>
   - [Projects using Numpy, Tensorflow, Keras, etc.](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/Machine_Learning)) <b>
 - <b>Object Oriented Programming (Java)</b>
