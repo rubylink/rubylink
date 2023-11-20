@@ -8,7 +8,7 @@
   - [Projects using Numpy, Tensorflow, Keras, etc.](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/Machine_Learning)) <b>
 - <b>Object Oriented Programming (Java)</b>
   - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/OOP_Java)
-- <b>Statistical Models (R) (.NET Desktop Applications)</b>
+- <b>Statistical Models (R)</b>
   - [Decision Trees, Random Forest, Regression](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/Bus_Statistical_Models)
 
 <h2>📺 Data Science Video </h2>
