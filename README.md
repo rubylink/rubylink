@@ -2,11 +2,6 @@
 
 <h2>👨‍💻 Data Science and Programming Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>👨‍💻 Computer and Data Science:</h2>
-
 - <b>Data Structures and Algorithms Projects</b>
   - [Praciting DS & Algos in C++(Data_Structures)](https://github.com/rubylink/Portfolio/tree/c60a707b17e0715a3e1da6c9cf6345e897265d4f/Data_Structures )<b>
 - <b> Machine Learning in Python </b>
