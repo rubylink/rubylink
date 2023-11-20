@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ruby! <br/> <a> Data Science Student</a>
+<h1>Hi, I'm Ruby! <br/><a> Data Science Student</a>
 
 <h2>👨‍💻 Data Science and Programming Projects:</h2>
 
