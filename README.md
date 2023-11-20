@@ -1,4 +1,9 @@
-<h1>Hi, I'm Ruby! <br/> 
+<h1>Hi, I'm Ruby! <br/> <a> Data Science Student</a>
+
+<h2>👨‍💻 Data Science and Programming Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Computer and Data Science:</h2>
 
