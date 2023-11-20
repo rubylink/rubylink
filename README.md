@@ -23,7 +23,7 @@
   - [Decision Trees, Random Forest, Regression](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/Bus_Statistical_Models)
 
 <h2>📺 Videos</h2>
-  - <b>[Facebook Ad Video Analysis](https://youtu.be/vvFt49Ax96c)</b>b>
+  - <b>[Facebook Ad Video Analysis](https://youtu.be/vvFt49Ax96c)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
