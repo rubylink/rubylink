@@ -9,14 +9,14 @@
   - [School Database (Self Balancing Tree)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/School_Database)
   - [School Registrar Simulation (Queues)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/Registrar_Simulation)
   - [Speakerview (Stacks)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/Stack)
-  - [All DS Projects](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures)
+  - <b>[All DS Projects](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures)</b>
 - <b> Machine Learning (Python) </b>
   - [Donuts Clustering (Numpy, Pandas)](https://github.com/rubylink/Portfolio/blob/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Machine_Learning/Donuts_Clustering.ipynb) 
   - [Stroke Regression ](https://github.com/rubylink/Portfolio/blob/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Stroke_Regression.ipynb)
   - [Iris Classification (SVM](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/iris_classification)
   - [Feed Forward Neural Network (Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Neural_Networks)
   - [Facebook Advertisement Analysis (Data Science Final](https://github.com/rubylink/Portfolio/blob/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Facebook_Ad_Analysis.ipynb)
-  - [All Projects](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning) <b>
+  - </b>[All Projects](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning) <b>
 - <b>Object Oriented Programming (Java)</b>
   - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/OOP_Java)
 - <b>Statistical Models (R)</b>
