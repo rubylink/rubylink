@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Projects (C++)</b>
   - [Robber Language (C++ basics and HTML)](https://github.com/rubylink/Portfolio/tree/046b306f69f4a87a38530567a22bc05bbf72a4b2/Data_Structures/Robber_Language)
   - [Mario (3D Matricies and OOP)](https://github.com/rubylink/Portfolio/tree/c525dd78c180a8437c821d0b9bcc8b7a058750cd/Data_Structures/Super_Mario_Bros)
-  - [School Database (Self Balancing Tree)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/School_Database)
+  - [School Database (Self Balancing Tree)](https://github.com/rubylink/Portfolio/tree/main/Data_Structures/School_Database)
   - [School Registrar Simulation (Queues)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/Registrar_Simulation)
   - [Speakerview (Stacks)](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures/Stack)
   - <b>[All DS Projects](https://github.com/rubylink/Portfolio/tree/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Data_Structures)</b>
