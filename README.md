@@ -11,16 +11,16 @@
   - <b>[All DS Projects](https://github.com/rubylink/Portfolio/tree/main/Data_Structures)</b>
 - <b> Data Science/Machine Learning (Python) </b>
   - [Data Science Class Assignments (Numpy, Pandas)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/Data%20Science%20Assignments) 
-  - [Feed Forward Neural Networks(Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/FFNN)
+  - [Feed Forward Neural Networks (Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/FFNN)
   - [Iris Classification (SVM)](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/iris_classification)
   - [Recurrent Neural Network (LSTM)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Recurrent%20Neural%20Networks)
   - [Facebook Advertisement Analysis (Data Science Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Facebook_Analysis)
-  - [(Malware Detection (Machine Learning Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Malware_Detection)
+  - [Malware Detection (Machine Learning Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Malware_Detection)
   - <b>[All Projects](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning)</b>
 - <b>Object Oriented Programming (Java)</b>
-  - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/OOP_Java)
+  - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/OOP_Java)
 - <b>Statistical Models (R)</b>
-  - [Decision Trees, Random Forest, Regression](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/Bus_Statistical_Models)
+  - [Decision Trees, Random Forest, Regression, etc.](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Bus_Statistical_Models)
 
 <h2>📺 Videos</h2>
   - <b>[Facebook Ad Video Analysis](https://youtu.be/vvFt49Ax96c)</b>
