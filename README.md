@@ -10,11 +10,12 @@
   - [Speakerview (Stacks)](https://github.com/rubylink/Portfolio/tree/main/Data_Structures/Stack)
   - <b>[All DS Projects](https://github.com/rubylink/Portfolio/tree/main/Data_Structures)</b>
 - <b> Data Science/Machine Learning (Python) </b>
-  - [Donuts Clustering (Numpy, Pandas)](https://github.com/rubylink/Portfolio/blob/c41cb0bd4844a712b476cbc84d0d3885669d7eb9/Machine_Learning/Donuts_Clustering.ipynb) 
-  - [Stroke Regression ](https://github.com/rubylink/Portfolio/blob/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Stroke_Regression.ipynb)
+  - [Data Science Class Assignments (Numpy, Pandas)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/Data%20Science%20Assignments) 
+  - [Feed Forward Neural Networks(Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/FFNN)
   - [Iris Classification (SVM)](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/iris_classification)
-  - [Feed Forward Neural Network (Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Neural_Networks)
-  - [Facebook Advertisement Analysis (Data Science Final)](https://github.com/rubylink/Portfolio/blob/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning/Facebook_Ad_Analysis.ipynb)
+  - [Recurrent Neural Network (LSTM)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Recurrent%20Neural%20Networks)
+  - [Facebook Advertisement Analysis (Data Science Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Facebook_Analysis)
+  - [(Malware Detection (Machine Learning Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Malware_Detection)
   - <b>[All Projects](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning)</b>
 - <b>Object Oriented Programming (Java)</b>
   - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62dbb0f31b11bf2211bb9c56598405c8a03da3c6/OOP_Java)
