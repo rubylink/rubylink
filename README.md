@@ -16,7 +16,7 @@
   - [Recurrent Neural Network (LSTM)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Recurrent%20Neural%20Networks)
   - [Facebook Advertisement Analysis (Data Science Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Facebook_Analysis)
   - [Malware Detection (Machine Learning Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Malware_Detection)
-  - <b>[All Projects](https://github.com/rubylink/Portfolio/tree/1c6456b91a07d2b42d831c17ec35ad28670a5463/Machine_Learning)</b>
+  - <b>[All Projects](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Machine_Learning)</b>
 - <b>Object Oriented Programming (Java)</b>
   - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/OOP_Java)
 - <b>Statistical Models (R)</b>
