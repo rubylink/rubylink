@@ -12,7 +12,8 @@
 - <b> Data Science/Machine Learning (Python) </b>
   - [Data Science Class Assignments (Numpy, Pandas)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/Data%20Science%20Assignments) 
   - [Feed Forward Neural Networks (Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/FFNN)
-  - [Iris Classification (SVM)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Machine_Learning/iris_classification)
+  - [Iris Classification (Support Vector Machine)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Machine_Learning/iris_classification)
+  - [Image Classification (Convolution)](https://github.com/rubylink/Portfolio/tree/7285cf84b6559dbfb25f7e94c945facf0a447980/Machine_Learning/Image%20Classification)
   - [Recurrent Neural Network (LSTM)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Recurrent%20Neural%20Networks)
   - [Facebook Advertisement Analysis (Data Science Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Facebook_Analysis)
   - [Malware Detection (Machine Learning Final)](https://github.com/rubylink/Portfolio/tree/20eb8ce4edcfd4b5119c018b1eeb13e024b0c0fd/Machine_Learning/Malware_Detection)
