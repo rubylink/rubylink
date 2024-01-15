@@ -8,7 +8,7 @@
   - [School Database (Self Balancing Tree)](https://github.com/rubylink/Portfolio/tree/main/Data_Structures/School_Database)
   - [School Registrar Simulation (Queues)](https://github.com/rubylink/Portfolio/tree/main/Data_Structures/Registrar_Simulation)
   - [Speakerview (Stacks)](https://github.com/rubylink/Portfolio/tree/main/Data_Structures/Stack)
-  - <b>[All DS Projects](https://github.com/rubylink/Portfolio/tree/main/Data_Structures)</b>
+  - <b>[All Projects](https://github.com/rubylink/Portfolio/tree/main/Data_Structures)</b>
 - <b> Data Science/Machine Learning (Python) </b>
   - [Data Science Class Assignments (Numpy, Pandas)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/Data%20Science%20Assignments) 
   - [Feed Forward Neural Networks (Keras, Tensorflow)](https://github.com/rubylink/Portfolio/tree/main/Machine_Learning/FFNN)
@@ -21,7 +21,7 @@
 - <b>Object Oriented Programming (Java)</b>
   - [Projects from Computer Science II (CPSC 231)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/OOP_Java)
 - <b>Statistical Models (R)</b>
-  - [Decision Trees, Random Forest, Regression, etc.](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Bus_Statistical_Models)
+  - [Projects (Decision Trees, Random Forest, Regression, etc.)](https://github.com/rubylink/Portfolio/tree/62974b6938751bf1c4040e9545f1a1b250d5c89b/Bus_Statistical_Models)
 
 <h2>📺 Videos</h2>
   - [Facebook Ad Video Analysis](https://youtu.be/vvFt49Ax96c)
